@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Housnt
 - 👀 I’m interested in Coding, Data Analytics, and learning new coding languages
 - 🌱 I’m currently learning Python
-- 
